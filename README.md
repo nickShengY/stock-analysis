@@ -1,4 +1,4 @@
-# Financial Equity Dashboard with Tableau
+# Financial Equity (Dow Jones 30 Industrial Equities) Dashboard with Tableau
 
 This repository hosts an interactive financial equity dashboard meticulously crafted using Tableau. The visualization techniques employed in this project provide a comprehensive perspective into the multifaceted realm of equity data and present a holistic view of financial market dynamics.
 
