@@ -57,17 +57,23 @@ Measures buying and selling pressure as a cumulative indicator.
 
 **Source Data**: Raw datasets sourced from Yahoo Finance.
 
-**Data Engineering**: The data was meticulously curated and enhanced using Python, making it suitable for sophisticated visualization techniques in Tableau.
+**Data Engineering**: The data was meticulously curated and enhanced using Python, making it suitable for sophisticated visualization techniques in Tableau. (more info on `stock_analysis.ipynb`)
 
 **Tableau Calculated Fields**: Custom fields created within Tableau to derive valuable financial metrics.
 
-## 📝 **Notes**
+## Replicate this project:
 
-This project is a testament to the power of Tableau in visualizing intricate financial data. Contributions, suggestions, and feedback are always welcome!
+- 1, Clone this repository:
 
----
+- 2, Open the .twbx file in Tableau Desktop or Tableau Public.
 
-To set up and run the project, follow the instructions below:
+- 3, If prompted, relink the data source to the appropriate Airbnb data file included in the repository.
 
-...
+- 4, Start interacting with the dashboard!
+
+## 👩‍💻 Author
+**Sheng Yun**
+- Github: [@nickShengY<nickShengY>](https://github.com/nickShengY)
+- Email: <syun13@fordham.edu>/<s24yun@uwaterloo.ca>
+
 
